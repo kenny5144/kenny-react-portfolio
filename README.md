@@ -35,18 +35,11 @@ Copy code
 npm start
 Open your browser and visit http://localhost:3000 to view the portfolio.
 
-Technologies Used
-React
-JavaScript
-HTML5
-CSS3
-React Router - For client-side routing
-React Bootstrap - For responsive UI components
-Contributing
-Contributions to Kenny's React Portfolio are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-Have questions or want to get in touch? You can reach out to Kenny via email at kenny@example.com.
+## Technologies Used
+ -React
+-JavaScript
+-HTML5
+-CSS3
+-React Router - For client-side routing
+## Contributing
+Contributions to Kenny's React Portfolio are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request
