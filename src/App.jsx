@@ -17,7 +17,7 @@ function App() {
     <Routes>
 
       <Route path='/home' element={<Home/>}/>
-      <Route path='/contact' element={<Contact/>}/>
+      <Route path='/contact' element={<Contact phoneNumber={'000 0000 000'}/>}/>
       <Route path='/about' element={<About/>}/>
     </Routes>
 
